@@ -6,7 +6,7 @@ public class Sample {
 	
 	@Test
 	private void test() {
-
+      System.out.println("Test1");
 	}
 
 }
